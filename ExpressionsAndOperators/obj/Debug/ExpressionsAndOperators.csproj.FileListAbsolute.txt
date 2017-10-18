@@ -1,0 +1,6 @@
+C:\Users\Preetham\Documents\GitHub\C-Sharp-Modules\ExpressionsAndOperators\bin\Debug\ExpressionsAndOperators.exe.config
+C:\Users\Preetham\Documents\GitHub\C-Sharp-Modules\ExpressionsAndOperators\bin\Debug\ExpressionsAndOperators.exe
+C:\Users\Preetham\Documents\GitHub\C-Sharp-Modules\ExpressionsAndOperators\bin\Debug\ExpressionsAndOperators.pdb
+C:\Users\Preetham\Documents\GitHub\C-Sharp-Modules\ExpressionsAndOperators\obj\Debug\ExpressionsAndOperators.csprojResolveAssemblyReference.cache
+C:\Users\Preetham\Documents\GitHub\C-Sharp-Modules\ExpressionsAndOperators\obj\Debug\ExpressionsAndOperators.exe
+C:\Users\Preetham\Documents\GitHub\C-Sharp-Modules\ExpressionsAndOperators\obj\Debug\ExpressionsAndOperators.pdb
