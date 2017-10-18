@@ -1,5 +1,0 @@
-C:\Users\Preetham\Documents\GitHub\C-Sharp-Modules\Variable\ControlFlowSwitch\bin\Debug\ControlFlowSwitch.exe.config
-C:\Users\Preetham\Documents\GitHub\C-Sharp-Modules\Variable\ControlFlowSwitch\bin\Debug\ControlFlowSwitch.exe
-C:\Users\Preetham\Documents\GitHub\C-Sharp-Modules\Variable\ControlFlowSwitch\bin\Debug\ControlFlowSwitch.pdb
-C:\Users\Preetham\Documents\GitHub\C-Sharp-Modules\Variable\ControlFlowSwitch\obj\Debug\ControlFlowSwitch.exe
-C:\Users\Preetham\Documents\GitHub\C-Sharp-Modules\Variable\ControlFlowSwitch\obj\Debug\ControlFlowSwitch.pdb
