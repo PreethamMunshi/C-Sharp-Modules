@@ -7,9 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variable", "Variable\Variab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionsAndOperators", "..\ExpressionsAndOperators\ExpressionsAndOperators.csproj", "{C5873B66-75CF-4295-8DC0-8B7F37AF094A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlowDecision", "ControlFlowDecision\ControlFlowDecision.csproj", "{A2961F71-922E-4A6F-832F-44EDE8965C22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlowDecision", "..\ControlFlowDecision\ControlFlowDecision.csproj", "{B797C29B-A66E-4513-973C-2C57C6974DAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlowSwitch", "ControlFlowSwitch\ControlFlowSwitch.csproj", "{CDF62FEB-EE6F-42DC-9ECE-5EB7E4F47B5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopingWhile", "..\LoopingWhile\LoopingWhile.csproj", "{D917620C-9011-481E-84CB-3AD3C3EF99A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopingDoWhile", "..\LoopingDoWhile\LoopingDoWhile.csproj", "{FA71AED7-925A-4F45-AC4F-C9D1D6CC0024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopingFor", "..\LoopingFor\LoopingFor.csproj", "{9691EA0F-70E3-4422-8E3E-11B3FA8A48AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,14 +29,22 @@ Global
 		{C5873B66-75CF-4295-8DC0-8B7F37AF094A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5873B66-75CF-4295-8DC0-8B7F37AF094A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5873B66-75CF-4295-8DC0-8B7F37AF094A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A2961F71-922E-4A6F-832F-44EDE8965C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A2961F71-922E-4A6F-832F-44EDE8965C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A2961F71-922E-4A6F-832F-44EDE8965C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A2961F71-922E-4A6F-832F-44EDE8965C22}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CDF62FEB-EE6F-42DC-9ECE-5EB7E4F47B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CDF62FEB-EE6F-42DC-9ECE-5EB7E4F47B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CDF62FEB-EE6F-42DC-9ECE-5EB7E4F47B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CDF62FEB-EE6F-42DC-9ECE-5EB7E4F47B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B797C29B-A66E-4513-973C-2C57C6974DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B797C29B-A66E-4513-973C-2C57C6974DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B797C29B-A66E-4513-973C-2C57C6974DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B797C29B-A66E-4513-973C-2C57C6974DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D917620C-9011-481E-84CB-3AD3C3EF99A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D917620C-9011-481E-84CB-3AD3C3EF99A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D917620C-9011-481E-84CB-3AD3C3EF99A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D917620C-9011-481E-84CB-3AD3C3EF99A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA71AED7-925A-4F45-AC4F-C9D1D6CC0024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA71AED7-925A-4F45-AC4F-C9D1D6CC0024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA71AED7-925A-4F45-AC4F-C9D1D6CC0024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA71AED7-925A-4F45-AC4F-C9D1D6CC0024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9691EA0F-70E3-4422-8E3E-11B3FA8A48AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9691EA0F-70E3-4422-8E3E-11B3FA8A48AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9691EA0F-70E3-4422-8E3E-11B3FA8A48AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9691EA0F-70E3-4422-8E3E-11B3FA8A48AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
